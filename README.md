@@ -1,5 +1,4 @@
-# Shit Youtube to MP3 downloader
-### For linux
-##### *Because I still suck at Python*
+# Shit Youtube to MP3 downloader, for linux
+*Because I still suck at Python*
 
 Using youtube_dl.
