@@ -1,4 +1,5 @@
-# Linux command line Youtube to MP3 downloader
-## Because I still suck at Python
+# Shit Youtube to MP3 downloader
+### For linux
+##### *Because I still suck at Python*
 
 Using youtube_dl.
