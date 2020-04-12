@@ -1,4 +1,4 @@
-# Shit_YtD0wnloader
-## Linux command line Youtube mp3 downloader
-* Because I still suck at Python
+# Linux command line Youtube to MP3 downloader
+## Because I still suck at Python
 
+Using youtube_dl.
